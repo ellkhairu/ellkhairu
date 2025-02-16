@@ -40,8 +40,3 @@ I am a beginner programmer from Indonesia
 </p>
 
 ---
-
-### 💻 For Program:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellkhairu)
-
----
